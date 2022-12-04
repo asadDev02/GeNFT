@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="example_abc_xyz">example@abc.xyz</string>
+    <string name="password2">password</string>
+    <string name="password1">password</string>
+</resources>

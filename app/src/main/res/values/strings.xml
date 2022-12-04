@@ -2,7 +2,22 @@
     <string name="app_name">GeNFT</string>
     <string name="title">GeNFT</string>
     <string name="logo">logo</string>
-    <string name="submit">Submit</string>
-    <string name="reg">Reg#</string>
-    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="forgot_password"><u>Forgot Password ?</u></string>
+    <string name="sign_up">Signup</string>
+    <string name="or">OR</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="example_abc_xyz">example@abc.xyz</string>
+    <string name="password2">password</string>
+    <string name="password1">password</string>
 </resources>
