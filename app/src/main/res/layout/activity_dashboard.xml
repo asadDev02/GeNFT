@@ -69,7 +69,7 @@
         android:id="@+id/dice"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Tap the button to roll the dice"
+        android:text="@string/tap_the_button_to_roll_the_dice"
         android:layout_margin="10dp"/>
 
 
@@ -77,7 +77,7 @@
         android:id="@+id/roll_dice"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Roll the Dice"
+        android:text="@string/roll_the_dice"
         android:textAllCaps="false"
         android:layout_margin="10dp"
         android:onClick="roll"

@@ -11,4 +11,9 @@
     <string name="example_abc_xyz">example@abc.xyz</string>
     <string name="password2">password</string>
     <string name="password1">password</string>
+    <string name="emailpattern">example@abc.xyz</string>
+    <string name="enter_new_password">Enter new Password:</string>
+    <string name="return_to_login">Return to Login</string>
+    <string name="tap_the_button_to_roll_the_dice">Tap the button to roll the dice</string>
+    <string name="roll_the_dice">Roll the Dice</string>
 </resources>
